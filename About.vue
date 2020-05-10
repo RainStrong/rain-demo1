@@ -28,7 +28,7 @@
         </div>
       </van-cell>
       <template slot="right">
-        <van-button square type="danger" text="删除" />
+        <van-button square type="danger" text="删2除" />
       </template>
     </van-swipe-cell>
     <van-button type="primary" size="large">大号按钮</van-button>
