@@ -11,7 +11,7 @@
           <div class="item">
             <img src="../assets/img/icon-2.png"
                  class="icon">
-            <span class="custom-title">关联3账户</span>
+            <span class="custom-title">关联5账户</span>
           </div>
         </template>
       </van-cell>
